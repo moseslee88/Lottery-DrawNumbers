@@ -4,10 +4,11 @@ I created a Web app that, given a number of balls and a max Range of Lottery Num
 
 
 Winning Numbers: 
-79
-62
-8
-36
-27
-3
+<br>
+79  <br>
+62   <br>
+8     <br>
+36      <br>
+27        <br>
+3           <br>
  
